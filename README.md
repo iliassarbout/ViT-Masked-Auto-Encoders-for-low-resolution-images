@@ -11,3 +11,6 @@ And some embeddings from this dataset we computed here : https://drive.google.co
 
 *Imagenet Dataset*\
 To reproduce training (not uploaded yet), you should download Imagenet 64 x 64 (batch format) at https://image-net.org/download-images.php
+
+
+![alt text](https://github.com/iliassarbout/ViT-Masked-Auto-Enncoders-for-low-resolution-images/blob/main/embeds.PNG?raw=true)
