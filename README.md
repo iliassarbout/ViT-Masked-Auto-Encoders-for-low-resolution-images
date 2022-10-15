@@ -10,4 +10,4 @@ You can download weather image recognition dataset here : https://drive.google.c
 And some embeddings from this dataset we computed here : https://drive.google.com/file/d/1Zx35Fxe8N6fMBX9RxmKJVEBI_UxWb1qX/view?usp=sharing
 
 *Imagenet Dataset*\
-To reproduce training, you should download Imagenet 64 x 64 (batch format) at https://image-net.org/download-images.php
+To reproduce training (not uploaded yet), you should download Imagenet 64 x 64 (batch format) at https://image-net.org/download-images.php
