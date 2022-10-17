@@ -1,6 +1,8 @@
 import torch
 from torch.utils.data import Dataset
 from torchvision import transforms
+import numpy as np
+from PIL import Image
 
 class DATA(Dataset):
     def __init__(self, img_list, transform = None, mean = None,std = None):
@@ -30,3 +32,4 @@ class DATA(Dataset):
         #img = torch.einsum('hwc->chw', img) #switch channel position
 
         return img,idx
+
