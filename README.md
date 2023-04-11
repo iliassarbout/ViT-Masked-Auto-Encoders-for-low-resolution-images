@@ -1,3 +1,7 @@
+## Presentation
+
+This repository presents a project I worked on during my internship at the Centre Borelli, which is the computer vision lab of ENS Paris Saclay. This project focuses on self-supervised learning of low-dimensional representations of images. You can find a preprint of an upcoming publication in this repository, titled "PREPRINT.pdf".
+
 ## Instructions for files
 
 *checkpoint-99.pth* \
